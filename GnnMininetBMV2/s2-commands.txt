@@ -1,0 +1,4 @@
+mirroring_add 500 0
+mc_node_create 1 10
+mc_mgrp_create 1
+mc_node_associate 1 0

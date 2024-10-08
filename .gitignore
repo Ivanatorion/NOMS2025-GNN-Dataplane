@@ -1,0 +1,17 @@
+GnnMininetBMV2/utils/__pycache__/*
+GnnMininetBMV2/utils/p4runtime_lib/__pycache__/*
+
+.vscode/*
+jv-neural-network-p4-main/*
+P4-16-v1.0.0-spec.pdf
+Notes.txt
+
+GenerateP4/bin/*.o
+GenerateP4/p4code/*.p4
+GenerateP4/genP4
+GenerateP4/fixedPoint
+GnnMininetBMV2/GenerateTopology/*.json
+GnnMininetBMV2/GenerateTopology/*.txt
+GnnMininetBMV2/GenerateTopology/genTopo
+VerifyGNN/bin/*.o
+VerifyGNN/gnn
